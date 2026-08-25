@@ -13,7 +13,8 @@ Monash University
 ### Selected Projects
 
 - [Futures Data & Momentum Analysis](https://github.com/vivianasa/futures-data-momentum-analysis)
-- [Futures Momentum Strategy](https://github.com/vivianasa/futures-momentum-strategy)
+- [CSI 300 Momentum Strategy](https://github.com/vivianasa/csi300-momentum-strategy)
+  
 ### Links
 
 [Website](https://vivianasa.github.io) · [LinkedIn](https://www.linkedin.com/in/zixuan-fang-4b626a414/?skipRedirect=true) · [CV](https://vivianasa.github.io/cv.html)
