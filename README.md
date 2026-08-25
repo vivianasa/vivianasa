@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Vivian 👋
 
-<!--
-**vivianasa/vivianasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher in **Econometrics & Business Statistics**  
+Monash University
 
-Here are some ideas to get you started:
+### Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Econometrics
+- Forecasting
+- Quantitative Finance
+- Causal Inference
+
+### Selected Projects
+
+- [High-Frequency Financial Data Processing](https://github.com/vivianasa/High-Frequency-Data-Processing)
+- [Futures Momentum Strategy](https://github.com/vivianasa/futures-momentum-strategy)
+
+### Links
+
+[Website](https://vivianasa.github.io) · [LinkedIn](你的LinkedIn链接) · [CV](你的CV链接)
