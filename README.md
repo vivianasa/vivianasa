@@ -9,12 +9,11 @@ Monash University
 - Forecasting
 - Quantitative Finance
 - Causal Inference
-
+  
 ### Selected Projects
 
-- [High-Frequency Financial Data Processing](https://github.com/vivianasa/High-Frequency-Data-Processing)
+- [Futures Data & Momentum Analysis](https://github.com/vivianasa/futures-data-momentum-analysis)
 - [Futures Momentum Strategy](https://github.com/vivianasa/futures-momentum-strategy)
-
 ### Links
 
 [Website](https://vivianasa.github.io) · [LinkedIn](https://www.linkedin.com/in/zixuan-fang-4b626a414/?skipRedirect=true) · [CV](https://vivianasa.github.io/cv.html)
