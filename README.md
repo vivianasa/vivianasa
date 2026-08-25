@@ -17,4 +17,4 @@ Monash University
 
 ### Links
 
-[Website](https://vivianasa.github.io) · [LinkedIn](你的LinkedIn链接) · [CV](你的CV链接)
+[Website](https://vivianasa.github.io) · [LinkedIn](https://www.linkedin.com/in/zixuan-fang-4b626a414/?skipRedirect=true)) · [CV](你的CV链接)
