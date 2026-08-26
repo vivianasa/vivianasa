@@ -6,7 +6,6 @@ Monash University
 ### Research Interests
 
 - Econometrics
-- Forecasting
 - Quantitative Finance
 - Causal Inference
   
