@@ -11,8 +11,8 @@ Monash University
   
 ### Selected Projects
 
-- [Futures Data & Momentum Analysis](https://github.com/vivianasa/futures-data-momentum-analysis)
-- [CSI 300 Momentum Strategy](https://github.com/vivianasa/csi300-momentum-strategy)
+- [Futures Data & Momentum Analysis](https://github.com/vivianasa/futures-data-momentum-analysis) — University quantitative finance project
+- [CSI 300 Momentum Strategy](https://github.com/vivianasa/csi300-momentum-strategy) — Quantitative research internship project
   
 ### Links
 
